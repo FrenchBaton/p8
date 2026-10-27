@@ -1,0 +1,24 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    padding: 100px 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+table{
+    border-collapse: collapse;
+    overflow: hidden;
+    border-radius: 15px;
+}
+button{
+    border-radius: 0px;
+    border-color: rgb(190, 190, 190);
+    padding: 5px 20px;
+    margin: 10px 5px;
+}
+tbody tr td{
+    padding: 10px 20px;
+    
+}
